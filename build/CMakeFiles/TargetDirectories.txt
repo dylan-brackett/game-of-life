@@ -1,0 +1,3 @@
+/home/db/Documents/Life/build/CMakeFiles/rebuild_cache.dir
+/home/db/Documents/Life/build/CMakeFiles/edit_cache.dir
+/home/db/Documents/Life/build/CMakeFiles/life.dir

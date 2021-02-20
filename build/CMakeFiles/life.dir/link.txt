@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/life.dir/src/life.cpp.o CMakeFiles/life.dir/src/main.cpp.o CMakeFiles/life.dir/src/ltimer.cpp.o  -o life  -lSDL2 

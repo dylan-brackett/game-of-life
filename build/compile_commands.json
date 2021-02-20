@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/db/Documents/Life/build",
+  "command": "/bin/g++-9   -I/usr/include/SDL2 -I/home/db/Documents/Life/include  -g   -Wall -Wextra -Werror -std=c++11 -o CMakeFiles/life.dir/src/life.cpp.o -c /home/db/Documents/Life/src/life.cpp",
+  "file": "/home/db/Documents/Life/src/life.cpp"
+},
+{
+  "directory": "/home/db/Documents/Life/build",
+  "command": "/bin/g++-9   -I/usr/include/SDL2 -I/home/db/Documents/Life/include  -g   -Wall -Wextra -Werror -std=c++11 -o CMakeFiles/life.dir/src/main.cpp.o -c /home/db/Documents/Life/src/main.cpp",
+  "file": "/home/db/Documents/Life/src/main.cpp"
+},
+{
+  "directory": "/home/db/Documents/Life/build",
+  "command": "/bin/g++-9   -I/usr/include/SDL2 -I/home/db/Documents/Life/include  -g   -Wall -Wextra -Werror -std=c++11 -o CMakeFiles/life.dir/src/ltimer.cpp.o -c /home/db/Documents/Life/src/ltimer.cpp",
+  "file": "/home/db/Documents/Life/src/ltimer.cpp"
+}
+]
