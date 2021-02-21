@@ -1,8 +1,7 @@
 #include <cstdint>
 
 //The application time based timer
-class LTimer
-{
+class LTimer {
     public:
         //Initializes variables
         LTimer();
